@@ -85,6 +85,6 @@ All of our code is deployed on heroku.
 ## Authors
 
 * **Zhehui Yuan** - *Initial work* - [GitHub](https://github.com/wqeqwqeq) [LinkedIn](https://www.linkedin.com/in/stanley-yuan-6093a317a/)
-
+* **Xinghong Liu** - *Null* - [GitHub](https://github.com/XinghongLiu) [LinkedIn](https://www.linkedin.com/in/xinghong-liu-93a33516b/)
 See also the list of [contributors](https://github.com/wqeqwqeq/plotly_dash_mapbox/blob/master/Contributor.md) who participated in this project.
 
